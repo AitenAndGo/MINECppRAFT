@@ -2,6 +2,12 @@
 
 This is my first attempt at creating a Minecraft clone game using C++ and the GLFW3 library. The game currently allows you to generate a world and freely fly around it. In the future, I plan to add physics and a block placing system to enhance the gameplay experience.
 
+![image](https://github.com/AitenAndGo/MINECppRAFT/assets/87769038/cc922d8b-deac-4517-a5f2-b074644cb1d5)
+![image](https://github.com/AitenAndGo/MINECppRAFT/assets/87769038/4ead6087-f9d1-4f2d-a5a3-a772b3cda713)
+![image](https://github.com/AitenAndGo/MINECppRAFT/assets/87769038/ab54d33d-0296-4f26-8740-d3c5cdc2b8ef)
+
+
+
 ## Features
 
 - World Generation: The game utilizes the Perlin noise algorithm to procedurally generate a realistic and diverse game world.
